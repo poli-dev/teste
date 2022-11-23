@@ -1,1 +1,2 @@
 nome="poliana"
+idade= 17
