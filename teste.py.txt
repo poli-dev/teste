@@ -1,5 +1,3 @@
 nome="poliana"
 idade= 17
-filmeF="aaaa"
-
-iuiugigiu
+filmeF="halloween"
